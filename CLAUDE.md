@@ -45,7 +45,7 @@ Page titles come from `data-title-en` / `data-title-el` on `<body>`.
   LinkedIn https://www.linkedin.com/company/restartgen/ · no Facebook.
 - The contact page has no form, just the text, email and social links.
 - Team (`team.html`): Laura Bakola (co-founder, Netherlands) always first; then all other
-  members in alphabetical order by surname: Vasiliki Bili (Denmark), Spyros Kroussas
+  members in alphabetical order by surname: Vasiliki Bili (Denmark), Elena Gkarametsi (Greece), Spyros Kroussas
   (Luxembourg), Elena Lianidou (Netherlands), Argyro Myzithra (Greece), Maria Slamari
   (Belgium). Each member uses the same card: initials circle (alternating teal/yellow),
   name, role and country. No "photo and bio coming soon" placeholder text. To add a photo, put it in `assets/team/` and
