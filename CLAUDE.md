@@ -44,10 +44,11 @@ Page titles come from `data-title-en` / `data-title-el` on `<body>`.
 - Contact: info@restartgen.org · Instagram https://www.instagram.com/restartgen/ ·
   LinkedIn https://www.linkedin.com/company/restartgen/ · no Facebook.
 - The contact page has no form, just the text, email and social links.
-- Team (`team.html`): Laura Bakola (co-founder, Netherlands), Elena Lianidou (co-founder,
-  Netherlands), Vasiliki Bili (Denmark), Maria Slamari (Belgium), Spyros Kroussas
-  (Luxembourg). Each member uses the same card: initials circle (alternating teal/yellow),
-  name, role and country, and a short note. To add a photo, put it in `assets/team/` and
+- Team (`team.html`): Laura Bakola (co-founder, Netherlands) always first; then all other
+  members in alphabetical order by surname: Vasiliki Bili (Denmark), Spyros Kroussas
+  (Luxembourg), Elena Lianidou (Netherlands), Argyro Myzithra (Greece), Maria Slamari
+  (Belgium). Each member uses the same card: initials circle (alternating teal/yellow),
+  name, role and country. No "photo and bio coming soon" placeholder text. To add a photo, put it in `assets/team/` and
   replace the initials with `<img src="assets/team/NAME.jpg" alt="">`.
 - The team map pins and their labels are an inline `<svg class="team-map-pins">` in
   `team.html`; update the member counts there (in both languages) and in the map image's
